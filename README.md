@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/amRadhwen" />
+    <img align="center" alt="visitors" src="https://amradhwen.github.io/portfolio" />
 </p>
 
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
