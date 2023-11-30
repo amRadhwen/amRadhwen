@@ -1,5 +1,5 @@
 ![Matrix SVG](https://data.whicdn.com/images/350989652/original.gif)
-  <h1 align="center"><b>Hello there, I'm AMRI Radhwen 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Radhwen Amry 👋</b></h1>
 </p>
 <h4 align="center"><b>I'm a Full Stack Web Developer ⚡</b></h4>
 <p align="center">
