@@ -45,7 +45,7 @@
   <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="Symfony" width="40" height="40"/>
-  <img src="https://images.seeklogo.com/logo-png/32/1/node-node-js-logo-png_seeklogo-320102.png" alt="NodeJs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongo" width="40" height="40"/>
 
   
